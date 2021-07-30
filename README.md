@@ -1,3 +1,1 @@
 # ScrumSCAN
-
-TEST
